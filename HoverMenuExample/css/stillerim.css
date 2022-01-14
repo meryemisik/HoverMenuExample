@@ -1,0 +1,21 @@
+		.fontSize{font-size:14px}
+
+	@media (min-width: 576px) {	
+			.fontSize{font-size:14px}
+		}
+
+		@media (min-width: 768px) {  
+			.fontSize{font-size:14px}
+		}
+
+		@media (min-width: 992px) { 
+			.fontSize{font-size:14px}
+		}
+
+		@media (min-width: 1200px) {  
+			.fontSize{font-size:14px}
+		}
+
+		@media (min-width: 1400px) {  
+			.fontSize{font-size:14px}
+		}
